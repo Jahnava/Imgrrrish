@@ -1,0 +1,41 @@
+#header {
+color: orange;
+margin-left: 400px;
+margin-right: 480px;
+border-color: yellow;
+border-style: dotted;
+border-width: thick;
+background-color: black;
+background-position: center;
+text-align: center;
+}
+
+small {
+  color: purple;
+}
+
+body {
+background-color: yellow;
+}
+
+#URLinputbar {
+  margin-left:300px;
+  margin-top: 30px;
+}
+
+.text {
+  /*margin-left: 440px;*/
+  text-align: center;
+}
+
+.myButton {
+  margin-left: 610px;
+
+}
+
+#imageBox {
+  margin-top: 30px;
+  margin-left: 150px;
+  height: auto;
+  width: auto;
+}
