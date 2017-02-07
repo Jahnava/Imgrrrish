@@ -1,6 +1,8 @@
+
+
 #header {
 color: orange;
-margin-left: 400px;
+margin-left: 500px;
 margin-right: 480px;
 border-color: yellow;
 border-style: dotted;
@@ -35,7 +37,7 @@ background-color: yellow;
 
 #imageBox {
   margin-top: 30px;
-  margin-left: 150px;
-  height: auto;
-  width: auto;
+    margin-left: 350px;
+    height: auto;
+    width: auto;
 }
